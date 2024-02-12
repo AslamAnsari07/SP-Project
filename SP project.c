@@ -6,9 +6,6 @@ project :Traversing a graph . finding all the path formed by given nodes.
 
 
 #include <stdio.h>
-
-
-
 int flag[100000] = {0};
 int pp = 0;
 
